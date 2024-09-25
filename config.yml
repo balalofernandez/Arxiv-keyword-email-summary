@@ -1,0 +1,10 @@
+__include__: [
+'./private.yml',
+]
+KEYWORD : 
+  - Monkey
+  - Bicycles
+
+# Example usage
+email_subject : "Test Email"
+email_content : "This is a test email sent from Python."
